@@ -8,8 +8,6 @@
 https://github.com/PaddlePaddle/PaddleOCR
 
 
-# 性能数据
-
 
 # 总结
 
@@ -63,6 +61,8 @@ https://github.com/PaddlePaddle/PaddleOCR
 
 
 
+
+# 性能数据
 
 
 # 下面是详细的记录了上面的测试数据
